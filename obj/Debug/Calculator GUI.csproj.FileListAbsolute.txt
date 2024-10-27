@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\csharp\Calculator GUI\Calculator GUI\bin\Debug\Calculator GUI.exe.config
+C:\Users\Asus\Desktop\csharp\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\csharp\Calculator GUI\Calculator GUI\obj\Debug\Calculator_GUI.Properties.Resources.resources
+C:\Users\Asus\Desktop\csharp\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\csharp\Calculator GUI\Calculator GUI\bin\Debug\Calculator GUI.exe
+C:\Users\Asus\Desktop\csharp\Calculator GUI\Calculator GUI\bin\Debug\Calculator GUI.pdb
+C:\Users\Asus\Desktop\csharp\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.exe
+C:\Users\Asus\Desktop\csharp\Calculator GUI\Calculator GUI\obj\Debug\Calculator GUI.pdb
+C:\Users\Asus\Desktop\csharp\Calculator GUI\Calculator GUI\obj\Debug\Calculator_GUI.MainForm.resources
+C:\Users\Asus\Desktop\csharp\Calculator GUI\Calculator assignment - Brilliant\bin\Debug\Calculator GUI.exe.config
+C:\Users\Asus\Desktop\csharp\Calculator GUI\Calculator assignment - Brilliant\obj\Debug\Calculator GUI.exe
+C:\Users\Asus\Desktop\csharp\Calculator GUI\Calculator assignment - Brilliant\obj\Debug\Calculator GUI.pdb
